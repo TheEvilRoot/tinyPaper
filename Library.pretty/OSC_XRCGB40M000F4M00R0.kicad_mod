@@ -10,7 +10,7 @@
 		(effects
 			(font
 				(size 0.32 0.32)
-				(thickness 0.15)
+				(thickness 0.08)
 			)
 		)
 	)
@@ -21,7 +21,7 @@
 		(effects
 			(font
 				(size 0.32 0.32)
-				(thickness 0.15)
+				(thickness 0.08)
 			)
 		)
 	)
@@ -191,5 +191,16 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "5ee093b3-fc3a-4bff-8208-59dbe526bb75")
+	)
+	(model "${KIPRJMOD}/XRCGB27M120F3M00R0.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
 	)
 )
